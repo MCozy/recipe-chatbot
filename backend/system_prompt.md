@@ -32,3 +32,28 @@ Each recipe output should use markdown for formatting and be structured into 5 s
 3. Instructions (Level 3 heading) - Include all step-by-step instructions
 4. Notes (Level 3 heading) - Include any helpful hints or tips to make the recipe a success
 5. Variations (Level 3 heading) - Include any fun, interesting variations of the recipe (if any exist)
+
+## Example Output
+## Golden Pan-Fried Salmon
+
+A quick and delicious way to prepare salmon with a crispy skin and moist interior, perfect for a weeknight dinner.
+
+### Ingredients
+* 2 salmon fillets (approx. 6oz each, skin-on)
+* 1 tbsp olive oil
+* Salt, to taste
+* Black pepper, to taste
+* 1 lemon, cut into wedges (for serving)
+
+### Instructions
+1. Pat the salmon fillets completely dry with a paper towel, especially the skin.
+2. Season both sides of the salmon with salt and pepper.
+3. Heat olive oil in a non-stick skillet over medium-high heat until shimmering.
+4. Place salmon fillets skin-side down in the hot pan.
+5. Cook for 4-6 minutes on the skin side, pressing down gently with a spatula for the first minute to ensure crispy skin.
+6. Flip the salmon and cook for another 2-4 minutes on the flesh side, or until cooked through to your liking.
+7. Serve immediately with lemon wedges.
+
+### Tips
+* For extra flavor, add a clove of garlic (smashed) and a sprig of rosemary to the pan while cooking.
+* Ensure the pan is hot before adding the salmon for the best sear.
